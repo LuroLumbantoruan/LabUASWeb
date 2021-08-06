@@ -5,7 +5,7 @@ Luro Lumbantoruan
 TI.19.B.1
 ```
 
-## Video Demo Website :
+## Video Demo Website : https://youtu.be/8ju1lPe_I-Q
 ## Link Demo Website : http://rsmedika.masuk.web.id/
 
 ## Login Admin
